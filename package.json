@@ -28,7 +28,7 @@
         "url": "https://github.com/kpooljp/node-stratum-pool-yescrypt.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/kpooljp/node-multi-hashing-yescrypt.git",
+        "multi-hashing": "git://github.com/kpooljp/node-multi-hashing-yespower.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
